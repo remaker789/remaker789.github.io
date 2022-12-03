@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh"
-title                    : "Shusong Zhang"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Shusong Zhang"
 description              : &description "phd student"
