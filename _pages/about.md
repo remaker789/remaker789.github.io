@@ -16,8 +16,8 @@ phenomena in confined nanofludics.
 
 Education
 ======
-- 2015-2019 Bachelor in Material physics, Northwestern Polytechnical University, Xi'an, China
-- 2019-Now Ph.D in Condended Physics, Northwestern Polytechnical University, Xi'an, China
+- 2015-2019 Bachelor in Material Physics, Northwestern Polytechnical University, Xi'an, China
+- 2019-Now Ph.D in Condensed Matter Physics, Northwestern Polytechnical University, Xi'an, China
 
 Skills
 ======
