@@ -21,12 +21,17 @@ Education
 
 Skills
 ======
-- COMSOL
 - Molecular Dynamics
   - LAMMPS
   - moltemplate
   - VMD
+- COMSOL
+- Linux system
 - python
+- tcl/tk
+
+
+
 
 Publications
 ======
