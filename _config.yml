@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Shusong Zhang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Northwestern Polytechnical University"
+  bio              : "major in physics"
+  location         : "Northwestern Polytechnical University, Xi'an, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "sszhang@mail.nwpu.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Shusong_Zhang2"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "remaker789"
   google_plus      :
   keybase          :
   instagram        :
