@@ -28,6 +28,10 @@ Skills
 - COMSOL
 - Linux system
 - python
+  - numpy
+  - pandas
+  - matplotlib
+  - pytorch(learning)
 - tcl/tk
 
 
