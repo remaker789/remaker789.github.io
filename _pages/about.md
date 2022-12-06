@@ -26,6 +26,7 @@ Skills
   - moltemplate
   - VMD
 - COMSOL
+- latex
 - Linux system
 - python
   - numpy
