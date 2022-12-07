@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I am a phd student majoring in nanofludics in Northwerstern Polytechnical Univeristy.
+I am a phd student majoring in nanofluidics in Northwerstern Polytechnical Univeristy.
 My works is to use molecular dynamics and statistics methods to illustare the odd and interesting 
 phenomena in confined nanofludics.
 
@@ -25,14 +25,15 @@ Skills
   - LAMMPS
   - moltemplate
   - VMD
-- COMSOL
-- latex
-- Linux system
 - python
   - numpy
   - pandas
   - matplotlib
   - pytorch(learning)
+- COMSOL
+- some basics of DFT
+- latex
+- Linux system
 - tcl/tk
 
 
