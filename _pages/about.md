@@ -29,9 +29,10 @@ Skills
   - numpy
   - pandas
   - matplotlib
-  - pytorch(learning)
+  - pytorch
 - COMSOL
 - some basics of DFT
+  - CP2K(learning)
 - latex
 - Linux system
 - tcl/tk
