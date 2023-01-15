@@ -31,8 +31,6 @@ Skills
   - matplotlib
   - pytorch
 - COMSOL
-- some basics of DFT
-  - CP2K(learning)
 - latex
 - Linux system
 - tcl/tk
