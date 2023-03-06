@@ -10,14 +10,14 @@ redirect_from:
 
 About me
 ======
-I am a phd student majoring in nanofluidics in Northwerstern Polytechnical Univeristy.
-My works is to use molecular dynamics and statistics methods to illustare the odd and interesting 
-phenomena in confined nanofludics.
+I am a phd student majoring in nanofluidics in Northwestern Polytechnical University.
+My works are using molecular dynamics and statistics methods to illustrate the odd and interesting 
+phenomena in confined nanofluidics.
 
 Education
 ======
-- 2015-2019 Bachelor in Material Physics, Northwestern Polytechnical University, Xi'an, China
-- 2019-Now Ph.D in Condensed Matter Physics, Northwestern Polytechnical University, Xi'an, China
+- 2015-2019: Bachelor in Material Physics, Northwestern Polytechnical University, Xi'an, China
+- 2019-Now:  Ph.D in Condensed Matter Physics, Northwestern Polytechnical University, Xi'an, China
 
 Skills
 ======
@@ -25,6 +25,7 @@ Skills
   - LAMMPS
   - moltemplate
   - VMD
+  - PLUMED
 - python
   - numpy
   - pandas
