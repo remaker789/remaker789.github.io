@@ -23,10 +23,10 @@ Skills
 ======
 ### Skilled
 - Molecular Dynamics
-  - LAMMPS
-  - moltemplate
-  - VMD
-  - PLUMED
+  - [LAMMPS](https://www.lammps.org/)
+  - [moltemplate](https://www.moltemplate.org/)
+  - [VMD](https://www.ks.uiuc.edu/Research/vmd/)
+  - [PLUMED](https://www.plumed.org/)
 - python
   - numpy
   - pandas
@@ -38,11 +38,12 @@ Skills
 - tcl/tk
 
 ### Learned but not Skilled
-- VESTA
-- OVITO
-- CP2K
+- [VESTA](https://jp-minerals.org/vesta/en/)
+- [OVITO](https://www.ovito.org/)
+- [CP2K](https://www.cp2k.org/)
 - Matlab
 - Wolfram Mathematica
+- [MDAnalysis](https://www.mdanalysis.org/)
 
 Publications
 ======
