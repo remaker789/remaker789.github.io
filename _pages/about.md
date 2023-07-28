@@ -38,6 +38,8 @@ Skills
 - tcl/tk
 
 ### Learned but not Skilled
+- [DeePMD-kit](https://github.com/deepmodeling/deepmd-kit)
+- [DP-GEN](https://github.com/deepmodeling/dpgen)
 - [VESTA](https://jp-minerals.org/vesta/en/)
 - [OVITO](https://www.ovito.org/)
 - [CP2K](https://www.cp2k.org/)
