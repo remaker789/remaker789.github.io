@@ -46,6 +46,7 @@ Skills
 - Matlab
 - Wolfram Mathematica
 - [MDAnalysis](https://www.mdanalysis.org/)
+- gnuplot
 
 Publications
 ======
@@ -56,7 +57,7 @@ https://doi.org/10.48550/arXiv.2304.13355)
 
 Peer Review
 ======
-- small science(1)
+- Small Science(1)
 
 
 
