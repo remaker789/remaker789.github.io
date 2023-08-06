@@ -47,6 +47,7 @@ Skills
 - Wolfram Mathematica
 - [MDAnalysis](https://www.mdanalysis.org/)
 - gnuplot
+- Docker
 
 Publications
 ======
