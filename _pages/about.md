@@ -47,6 +47,7 @@ Skills
 - [MDAnalysis](https://www.mdanalysis.org/)
 - gnuplot
 - Docker
+- Materials Studio(CASTEP)
 
 Publications
 ======
