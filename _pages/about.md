@@ -41,6 +41,9 @@ Skills
 - [CP2K](https://www.cp2k.org/)
 - GROMACS
 - pytorch
+- Materials Studio(CASTEP)
+- Gaussian
+- [ASE](https://wiki.fysik.dtu.dk/ase/)
 - [VESTA](https://jp-minerals.org/vesta/en/)
 - [OVITO](https://www.ovito.org/)
 - Matlab
@@ -48,8 +51,7 @@ Skills
 - [MDAnalysis](https://www.mdanalysis.org/)
 - gnuplot
 - Docker
-- Materials Studio(CASTEP)
-- [ASE](https://wiki.fysik.dtu.dk/ase/)
+
 
 Publications
 ======
