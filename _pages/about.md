@@ -27,30 +27,19 @@ Skills
   - [moltemplate](https://www.moltemplate.org/)
   - [VMD](https://www.ks.uiuc.edu/Research/vmd/)
   - [PLUMED](https://www.plumed.org/)
+- [DP-GEN](https://github.com/deepmodeling/dpgen)
 - python
-  - numpy
-  - pandas
-  - matplotlib
 - COMSOL
 - LaTeX
 - Linux system
 
 ### Learned but not Skilled
 - [DeePMD-kit](https://github.com/deepmodeling/deepmd-kit)
-- [DP-GEN](https://github.com/deepmodeling/dpgen)
 - [CP2K](https://www.cp2k.org/)
 - GROMACS
 - pytorch
 - Materials Studio(CASTEP)
 - Gaussian
-- [ASE](https://wiki.fysik.dtu.dk/ase/)
-- [VESTA](https://jp-minerals.org/vesta/en/)
-- [OVITO](https://www.ovito.org/)
-- Matlab
-- Wolfram Mathematica
-- [MDAnalysis](https://www.mdanalysis.org/)
-- gnuplot
-- Docker
 
 
 Publications
@@ -60,6 +49,11 @@ Publications
 3.  ***S. Zhang***, L. Fu, Y. Xie. Ionic blockade in a charged single-file water channel. arXiv preprint arXiv:2304.13355, (2023). [Link](
 https://doi.org/10.48550/arXiv.2304.13355)
 
+Award
+======
+- [DeepModeling open-source community, The third Hackathon, AIEC track, Second Prize](https://nb.bohrium.dp.tech/competitions/detail/7337360215)
+
+  
 Peer Review
 ======
 - Small Science(1)
