@@ -36,8 +36,10 @@ Skills
 ### Learned but not Skilled
 - [DeePMD-kit](https://github.com/deepmodeling/deepmd-kit)
 - [CP2K](https://www.cp2k.org/)
+- [i-PI](https://ipi-code.org/)
 - GROMACS
 - pytorch
+- scikit-learn
 - Materials Studio(CASTEP)
 - Gaussian
 
