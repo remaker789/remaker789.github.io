@@ -37,11 +37,20 @@ Skills
 - [DeePMD-kit](https://github.com/deepmodeling/deepmd-kit)
 - [CP2K](https://www.cp2k.org/)
 - [i-PI](https://ipi-code.org/)
+- [MDAnalysis](https://www.mdanalysis.org/)
 - GROMACS
 - pytorch
 - scikit-learn
 - Materials Studio(CASTEP)
 - Gaussian
+
+### Others
+- VESTA
+- OVITO
+- Matlab
+- git
+- sphinx
+
 
 
 Publications
@@ -50,6 +59,7 @@ Publications
 2.  J. Zhang, K. Zhan, ***S. Zhang***, Y. Shen, Y. Hou, J. Liu, Y. Fan, Y. Zhang, S. Wang, Y. Xie, X. Chen, X. Hou, Discontinuous streaming potential via liquid gate. eScience, 2022, 2(6): 615-622. [Link](https://doi.org/10.1016/j.esci.2022.08.001)
 3.  ***S. Zhang***, L. Fu, Y. Xie. Ionic blockade in a charged single-file water channel. arXiv preprint arXiv:2304.13355, (2023). [Link](
 https://doi.org/10.48550/arXiv.2304.13355)
+4.  ***S. Zhang***, L. Fu, Y. Xie. Counterion Blockade in a Heterogeneously Charged Single-File Water Channel. The Journal of Physical Chemistry B, 2024, 128(38): 9206-9212. [Link](https://doi.org/10.1021/acs.jpcb.4c03773)
 
 Award
 ======
